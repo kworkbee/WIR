@@ -24,14 +24,14 @@ module.exports = {
             'script',
             {
                 async: true,
-                src: 'https://www.googletagmanager.com/gtag/js?id=G-8Y5NYKR2S4',
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-3DJWRRKTMB',
             },
         ],
         [
             'script',
             {},
             [
-                "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-8Y5NYKR2S4');",
+                "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-3DJWRRKTMB');",
             ],
         ],
     ],

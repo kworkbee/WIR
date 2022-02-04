@@ -7,11 +7,10 @@
   "author": "G1.Jeon <g1.tommy.jeon@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev:docs": "vitepress dev docs",
-    "build:docs": "vitepress build docs"
+    "dev:docs": "vuepress dev docs",
+    "build:docs": "vuepress build docs"
   },
   "dependencies": {
-    "vitepress": "^0.21.6",
-    "sass": "^1.49.7"
+    "vuepress": "^1.9.7"
   }
 }

@@ -76,28 +76,18 @@ export default {
 }
 </script>
 
-<style lang="scss">
-.wir {
-  header {
-    margin: {
-      bottom: 30px;
-    }
-  }
-
-  .wrapper {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
-
-    figure {
-      font: {
-        size: 1.5rem;
-        weight: 500;
-      }
-      text: {
-        align: center;
-      }
-    }
-  }
+<style>
+.wir header {
+  margin-bottom: 30px;
+}
+.wir .wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+.wir .wrapper figure {
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
 }
 </style>
