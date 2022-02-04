@@ -1,0 +1,17 @@
+{
+  "name": "WIR",
+  "version": "1.0.0",
+  "description": "What I Read",
+  "main": "index.js",
+  "repository": "git@github.com:kworkbee/WIR",
+  "author": "G1.Jeon <g1.tommy.jeon@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:docs": "vitepress dev docs",
+    "build:docs": "vitepress build docs"
+  },
+  "dependencies": {
+    "vitepress": "^0.21.6",
+    "sass": "^1.49.7"
+  }
+}
