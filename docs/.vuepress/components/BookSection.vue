@@ -45,7 +45,6 @@
       
       <section class="references">
         <ul class="links">
-          <li>Soon be updated.</li>
           <li v-for="(ref, index) in ReferenceList" :key="index">
             <a :href="ref.src">{{ ref.title }}</a>
           </li>
