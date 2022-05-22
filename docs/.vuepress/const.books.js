@@ -6,7 +6,8 @@ export default {
         { src: 'http://image.kyobobook.co.kr/images/book/xlarge/025/x9791162242025.jpg', title: '모던 자바 인 액션' },
         { src: 'http://image.kyobobook.co.kr/images/book/xlarge/673/x9791161754673.jpg', title: '스프링으로 하는 마이크로서비스 구축' },
         { src: 'http://image.kyobobook.co.kr/images/book/xlarge/283/x9791165216283.jpg', title: '쿠버네티스 완벽 가이드' },
+    ],
+    completed: [
         { src: 'http://image.kyobobook.co.kr/images/book/xlarge/217/x9788957360217.jpg', title: '침묵이라는 무기' },
     ],
-    completed: [],
 }
