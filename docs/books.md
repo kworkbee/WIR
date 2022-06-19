@@ -1,4 +1,3 @@
 # Books
 
 <Books />
-<ItemSlot></ItemSlot>
