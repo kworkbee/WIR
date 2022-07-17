@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-606169e6","path":"/tech-blogs.html","title":"Tech Blogs","lang":"ko-KR","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658056350000,"contributors":[{"name":"G1","email":"g1.tommy.jeon@gmail.com","commits":1}]},"filePathRelative":"tech-blogs.md"}');export{e as data};
