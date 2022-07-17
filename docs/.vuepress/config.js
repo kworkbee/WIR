@@ -61,6 +61,7 @@ module.exports = {
     ],
     sidebar: [
       { text: 'Books', link: '/books' },
+      { text: 'Tech Blogs', link: '/tech-blogs' },
       { text: 'References', link: '/references' },
     ]
   }),
