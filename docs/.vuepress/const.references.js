@@ -43,4 +43,8 @@ export default [
     title: "Writing Better Code with Reactor 3 - Part 3",
     src: "https://codeyoucanuse.com/2020/06/24/writing-better-code-with-reactor-3-part-3.html",
   },
+  {
+    title: "Merge Paged Results with Reactor 3",
+    src: "https://codeyoucanuse.com/2020/09/15/merge-paged-results-with-reactor-3.html",
+  },
 ];
