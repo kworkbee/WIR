@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as a,b as c,t as s}from"./app.c88bd2fb.js";const o={props:["title","src"]},i=["href"];function l(n,_,e,f,d,p){return r(),a("li",null,[c("a",{href:e.src},s(e.title),9,i)])}var h=t(o,[["render",l],["__file","VerticalCard.vue"]]);export{h as default};
