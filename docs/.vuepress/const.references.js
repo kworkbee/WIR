@@ -47,4 +47,8 @@ export default [
     title: "Merge Paged Results with Reactor 3",
     src: "https://codeyoucanuse.com/2020/09/15/merge-paged-results-with-reactor-3.html",
   },
+  {
+    title: "The Future of Ops Is Platform Engineering",
+    src: "https://www.honeycomb.io/blog/future-ops-platform-engineering",
+  },
 ];
